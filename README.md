@@ -1,2 +1,3 @@
 # Projete-2024
-Para Projete
+Repositório do desenvolvimento do Projeto Henka Hikari.
+

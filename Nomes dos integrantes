@@ -9,6 +9,6 @@ Code, Compile, Run and Debug online from anywhere in world.
 using System;
 class HelloWorld {
   static void Main() {
-    Console.WriteLine("Alberto Fernandes Rodrigues, Guilherme Freitas Ferreira, Yann Paim");
+    Console.WriteLine("Alberto Fernandes Rodrigues, Guilherme Freitas Ferreira, Yann Paim, Miguel Antônio Texeira");
   }
 }
